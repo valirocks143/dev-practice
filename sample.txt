@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 class Simple{  
     public static void main(String args[]){  
      System.out.println("Hello Java");  
     }  
 }  
+=======
+welcome to vali in devopps
+>>>>>>> 9feed49 (updeted sample.tet)
